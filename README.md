@@ -36,6 +36,3 @@ The system also provides debt tracking for customers who regularly visit without
 ## Security
 - Spring Security ensures only authorized users can access certain features.
 - Passwords are encrypted using BCrypt before storing in the database.
-
-## License
-This project is licensed under the MIT License.
